@@ -1,0 +1,896 @@
+@font-face {
+    font-family: 'Jost';
+    src: 'https://fonts.googleapis.com/css2?family=Jost:wght@400&display=swap';
+}
+.mac-book-pro-147 .rectangle-418 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 1512px;
+    height: 131px;
+  }
+  .mac-book-pro-147 .about-us {
+    margin: 26px 43.3px 18px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .mac-book-pro-147 .login {
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    margin-top: 2px;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .asv {
+    margin: 26px 41px 18px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .mac-book-pro-147 .community {
+    margin: 26px 40.9px 18px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .mac-book-pro-147 .explore {
+    margin: 26px 0 18px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #000000;
+  }
+  .mac-book-pro-147 .lab-01 {
+    background: url('../WB/lab01.png') 50% / cover no-repeat;
+    margin-right: 66px;
+    margin-left: 66px;
+    margin-top: -20px;
+    width: 137px;
+    height: 70px;
+  }
+  .mac-book-pro-147 .group-275 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20px;
+    height: 21.8px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    left:0;
+    top:0;
+    padding-bottom: 1978px;
+    width: 1512px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .search {
+    width: 20px;
+    height: 21.8px;
+  }
+  .mac-book-pro-147 .search-1 {
+    opacity: 0.7;
+    margin: 11.5px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    text-transform: capitalize;
+    color: #093624;
+  }
+  .mac-book-pro-147 .our-mission {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-right: 0.9px;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif !important;
+    font-weight: 700;
+    font-size: 45px;
+    text-transform: capitalize;
+    color: #093624;
+}
+
+  .mac-book-pro-147 .join-the-fight-against-snakebites-deaths-in-india {
+    margin: 0 8.6px 33px 3px;
+    margin-left: -8.6px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 38px;
+    color: #093624;
+  }
+  .mac-book-pro-147 .group-278 {
+    background: #134B35;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 19.4px 0;
+    width: 231.7px;
+    height: 260px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .image-55 {
+    background: url('../WB/image55.png') 50% / cover no-repeat;
+    width: 231.7px;
+    height: 221.3px;
+  }
+  .mac-book-pro-147 .join-us-at-world-for-nature-wfn-in-our-mission-to-tackle-indias-snakebite-crisis-asilent-killer-impacting-communities-across-the-nation-with-millions-of-snakebites-occurring-globally-each-year-india-bears-aheavy-burden-facing-an-estimated-56000-annual-deaths-due-to-snakebite {
+    font-family: 'Jost';
+font-weight: 800;
+font-size: 24px;
+line-height: 1.333;
+font-family: 'Jost';
+font-weight: 800;
+font-size: 24px;
+line-height: 1.333;
+font-family: 'Jost';
+font-weight: 400;
+font-size: 24px;
+line-height: 1.333;
+margin-right: 39.5px;
+overflow-wrap: break-word;
+font-family: 'Inter';
+font-weight: 400;
+font-size: 24px;
+color: #FFFFFF;
+  }
+  .mac-book-pro-147 .our-approach-3-tmodel {
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Adjust the values as needed */
+    margin-right: 45.7px;
+    margin-left: 20px;
+    margin-top: 9px;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    color: #093624;
+}
+.mac-book-pro-147 .our-approach-3-tmodelz {
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); /* Adjust the values as needed */
+    margin-right: 26.7px;
+    margin-left: -30px;
+    margin-top: 9px;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-size: 42px;
+    color: #093624;
+}
+
+  .our-approach-3-tmodel-sub5 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 1.333;
+  }
+  .mac-book-pro-147 .introducing-an-innovative-app-to-track-anti-snake-venom-asv-availability-and-provide-emergency-helplines-empowering-rescuers-with-aplatform-to-record-snake-rescues-and-ensure-timely-treatment {
+    margin: 0 0 0 20px;
+    padding: 0; /* Remove any default padding */
+    list-style-type: disc;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
+.mac-book-pro-147 .introducing-an-innovative-app-to-track-anti-snake-venom-asv-availability-and-provide-emergency-helplines-empowering-rescuers-with-aplatform-to-record-snake-rescues-and-ensure-timely-treatment li {
+    list-style-type: disc;
+}
+  .mac-book-pro-147 .image-52 {
+    box-shadow: 10px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: url('../WB/image52.png') 50% / cover no-repeat;
+    margin-bottom: 21px;
+    width: 388px;
+    height: 298px;
+  }
+  .mac-book-pro-147 .iphone-15-pro-portrait-mockup-21 {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background: url('../WB/iphone15ProPortraitMockup21.png') 50% / cover no-repeat;
+    margin-right: 19px;
+    margin-left: 61px;
+    width: 125px;
+    height: 256px;
+}
+
+.mac-book-pro-147 .iphone-15-pro-portrait-mockup-31 {
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background: url('../WB/iphone15ProPortraitMockup31.png') 50% / cover no-repeat;
+    width: 126px;
+    height: 256px;
+}
+
+  .mac-book-pro-147 .spreading-awareness-through-educational-sessions-in-schools-colleges-and-communities-building-capacity-by-training-health-providers-and-educators-on-snakebite-management-creating-engaging-educational-materials-in-regional-languages-for-children-and-adults-alike {
+    margin: 0 20.9px 0 13px;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .mac-book-pro-147 .image-54 {
+    box-shadow: 10px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: url('../WB/image54.png') 50% / cover no-repeat;
+    margin-bottom: 21px;
+    width: 397px;
+    height: 298px;
+  }
+  .mac-book-pro-147 .ensuring-access-to-asv-kits-in-rural-areas-where-snakebites-are-prevalent-recognizing-asv-as-the-primary-treatment-for-snakebite-envenomation-and-addressing-its-scarcity-in-remote-regions {
+    margin: 0 31.6px 0 11px;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif !important;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .mac-book-pro-147 .vector-4 {
+    position: absolute;
+    left: -212px;
+    top: 2686px;
+    width: 85.8px;
+    height: 81.4px;
+  }
+  .mac-book-pro-147 .meet-our-fearless-rescuers {
+    margin-right: 20.9px;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 600;
+    font-size: 42px;
+    text-transform: capitalize;
+    color: #093624;
+  }
+  .mac-book-pro-147 .group-279 {
+    border-radius: 5px;
+    background: #093624;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 34px 0 26px 2px;
+    width: 384px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .group-280 {
+    border-radius: 10px;
+    margin-bottom: 168px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 382px;
+    height: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .rectangle-4011 {
+    border-radius: 10px;
+    background: #093624;
+    width: 382px;
+    height: 382px;
+  }
+  .mac-book-pro-147 .group-281 {
+    border-radius: 10px;
+    margin-bottom: 168px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 382px;
+    height: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .rectangle-4012 {
+    border-radius: 10px;
+    background: #093624;
+    width: 382px;
+    height: 382px;
+  }
+  .mac-book-pro-147 .group-282 {
+    border-radius: 10px;
+    margin-bottom: 168px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 382px;
+    height: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .rectangle-4013 {
+    border-radius: 10px;
+    background: #093624;
+    width: 382px;
+    height: 382px;
+  }
+  .mac-book-pro-147 .group-283 {
+    border-radius: 10px;
+    margin: 129px 0 134px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 382px;
+    height: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .rectangle-4014 {
+    border-radius: 10px;
+    background: #093624;
+    width: 382px;
+    height: 382px;
+  }
+  .mac-book-pro-147 .no-of-recues {
+    margin: 0 0 45px 4px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #093624;
+  }
+  .mac-book-pro-147 .name {
+    margin: 0 0 19px 3px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #093624;
+  }
+  .mac-book-pro-147 .contact {
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .group-2 {
+    position: relative;
+    margin: 0 103px 62px 103px;
+  }
+  .mac-book-pro-147 .group-285 {
+    border-radius: 5px;
+    background: #093624;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 34px 0 26px 0;
+    width: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .contact-1 {
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .group-286 {
+    border-radius: 5px;
+    background: #093624;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 34px 0 26px 0;
+    width: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .contact-2 {
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .group-287 {
+    border-radius: 5px;
+    background: #093624;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 34px 0 26px 0;
+    width: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .contact-3 {
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .whats-app-image-20240326-at-6021 {
+    border-radius: 10px;
+    background: url('../WB/whatsAppImage20240326At6021.jpeg');
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 385px;
+    height: 382px;
+  }
+  .mac-book-pro-147 .want-to-become-arescuer {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #093624;
+  }
+  .mac-book-pro-147 .apply-now {
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .image-66 {
+    background: url('../WB/image66.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 2064px;
+    right: -3px;
+    width: 1600px;
+    height: 378px;
+  }
+  .globally-5-million-snakebites-occur-annually-resulting-in-81000138000-deaths {
+    font-family: 'Jost', sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 1.333;
+  }
+  .globally-5-million-snakebites-occur-annually-resulting-in-81000138000-deaths-sub41 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 1.333;
+  }
+  .globally-5-million-snakebites-occur-annually-resulting-in-81000138000-deaths-sub43 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.333;
+  }
+  .mac-book-pro-147 .globally-5-million-snakebites-occur-annually-resulting-in-81000138000-deaths {
+    margin-right: 39.5px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .in-india-alone-there-are-an-estimated-56000-annual-deaths-due-to-snakebites {
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.333;
+  }
+  .in-india-alone-there-are-an-estimated-56000-annual-deaths-due-to-snakebites-sub32 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 1.333;
+  }
+  .in-india-alone-there-are-an-estimated-56000-annual-deaths-due-to-snakebites-sub34 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.333;
+  }
+  .mac-book-pro-147 .in-india-alone-there-are-an-estimated-56000-annual-deaths-due-to-snakebites {
+    margin-right: 36.1px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .thebig-four-snakes-are-responsible-for-around-90-of-snakebites-in-india {
+    margin-right: 45px;
+    margin-left: -1px;
+    margin-bottom: -33px;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    color: #FFFFFF;
+  }
+  .mac-book-pro-147 .thebig-four-snakes-are-responsible-for-around-90-of-snakebites-in-india strong {
+    font-weight: bold;
+}
+  .mac-book-pro-147 .understanding-the-crisis {
+    text-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25); 
+    margin-bottom: 29px;
+    margin-top: 0px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    color: #FFFFFF;
+}
+
+  .mac-book-pro-147 .rectangle-433 {
+    background: #093624;
+    margin: 49px 0 17px 0;
+    width: 1079px;
+    height: 3px;
+  }
+  .mac-book-pro-147 .rectangle-434 {
+    background: #093624;
+    margin: 49px 7px 17px 0;
+    width: 144px;
+    height: 3px;
+  }
+  .mac-book-pro-147 .rectangle-435 {
+    background: #093624;
+    margin: 12px 0;
+    width: 788px;
+    height: 45px;
+  }
+  .mac-book-pro-147 .rectangle-436 {
+    background: #093624;
+    margin: 12px 5px 12px 0;
+    width: 144px;
+    height: 45px;
+  }
+  .mac-book-pro-147 .rectangle-437 {
+    background: #093624;
+    margin: 34px 0 29px 0;
+    width: 699px;
+    height: 6px;
+  }
+  .mac-book-pro-147 .rectangle-438 {
+    background: #093624;
+    margin: 31px 7.9px 32px 0;
+    width: 144px;
+    height: 6px;
+  }
+  .mac-book-pro-147 .line-44 {
+    background: #093624;
+    margin: 0 17px 15px 20px;
+    width: 355px;
+    height: 1px;
+  }
+  .mac-book-pro-147 .line-45 {
+    background: #093624;
+    margin: 0 20px 15px 13px;
+    width: 355px;
+    height: 1px;
+  }
+  .mac-book-pro-147 .line-46 {
+    background: #093624;
+    margin: 0 26px 17px 11px;
+    width: 355px;
+    height: 1px;
+  }
+  .mac-book-pro-147 .technology {
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0 0 7px 3px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #093624;
+}
+
+.mac-book-pro-147 .training {
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0 1.3px 7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #093624;
+}
+
+  .mac-book-pro-147 .treatment {
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 0 0.2px 7px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #093624;
+  }
+  .mac-book-pro-147 .container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 1006px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-1 {
+    background: #A3A3A3;
+    position: relative;
+    margin-bottom: 85px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 45px 150px 0 0;
+    width: 1512px;
+    height: 812px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-2 {
+    margin-right: 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-3 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 40px;
+    margin-top: -15px;
+    display: flex;
+    flex-direction: row;
+    width: 363px;
+    height: 40px;   
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-4 {
+    border-radius: 20px;
+    background: #093624;
+    position: relative;
+    margin-right: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9px 10px 9.2px 10px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-5 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: #093624;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 29px 0 23px 0;
+    width: 234px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-6 {
+    margin-right: 172px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-7 {
+    margin: 0 104.2px 29px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-8 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    margin-right: 23px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 384px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-9 {
+    box-shadow: 4px 7px 14px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: #004C1E;
+    position: relative;
+    margin-bottom: 21px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px 0 22px 0;
+    width: 392px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-10 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: 1px solid #093624;
+    position: relative;
+    margin-right: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 26px 0 26px 0.8px;
+    width: 754px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-11 {
+    position: relative;
+    margin: 0 3px 52px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-12 {
+    box-shadow: 4px 7px 14px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 73px 1px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-13 {
+    position: relative;
+    margin-bottom: 65px;
+    display: flex;
+    flex-direction: row;
+    width: 1515px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-14 {
+    margin-right: 23px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 382px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-15 {
+    margin-left: 1px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-16 {
+    position: relative;
+    margin: 0 12px 27px 0;
+    display: flex;
+    flex-direction: row;
+    width: 1501px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-17 {
+    position: relative;
+    margin: 0 0 204px 150px;
+    display: flex;
+    flex-direction: row;
+    width: 2153px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-18 {
+    position: relative;
+    margin: 0 148px 105px 148px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 19px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-19 {
+    box-shadow: 4px 7px 14px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 159px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-20 {
+    background: rgba(9, 54, 36, 0.7);
+    position: relative;
+    margin-bottom: 103px;
+    display: flex;
+    flex-direction: column;
+    padding: 101px 0 148px 151px;
+    width: 1516px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-21 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background: #093624;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-top: -15px;
+    justify-content: center;
+    padding: 8px 0 9px 0;
+    width: 103px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-22 {
+    box-shadow: 4px 7px 14px 5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 161px;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-23 {
+    position: relative;
+    margin: 15px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-24 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .mac-book-pro-147 .container-25 {
+    position: relative;
+    margin: 0 150.3px 47px 150px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
